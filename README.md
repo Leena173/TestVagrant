@@ -2,8 +2,8 @@
 
 Overview:
 The following Test Suite contains the test cases to validate the RCB Team Structure and it consists of following test cases:
-1) validates that the team has only four foreign players.
-2) validates that there is only one wicket keeper.
+1. validates that the team has only four foreign players.
+2. validates that there is only one wicket keeper.
 
 Pre-requisites:
  Eclipse IDE 
